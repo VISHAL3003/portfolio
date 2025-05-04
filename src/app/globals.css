@@ -10,9 +10,14 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #1C1C1E;
+    --background: #151815;
     --foreground: #ededed;
   }
+}
+
+@theme {
+  --color-nav-line: #1e8d34;
+  --color-nav-element: #02c429;
 }
 
 body {
